@@ -2,7 +2,7 @@
   "name": "lesson-2.13-deployment-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/trainingresult6361/lesson-2.13-deployment-app",
+  "homepage": "https://trainingresult6361.github.io/lesson-2.13-deployment-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
